@@ -1,6 +1,6 @@
 # SImpleWEBSever
-# EX01 De-eloping a Simple Webserver-
-## Date: 08-10-2026
+# EX01 Developing a Simple Webserver-
+## Date: 16-11-2026
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the Device Specifications of your Laptop.
@@ -49,8 +49,8 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
     <h1>Laptop Device Specifications</h1>
 
     <h2>Student Details</h2>
-    <p><b>Name:</b> AKASH N B</p>
-    <p><b>Register Number:</b> 26017368</p>
+    <p><b>Name:</b> Bhavanesh.S</p>
+    <p><b>Register Number:</b> 26018650</p>
 
     <h2>Device Specifications</h2>
 
@@ -71,7 +71,7 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## OUTPUT:
 
-![alt text](image-1.png)
+![alt text](image1.png)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
